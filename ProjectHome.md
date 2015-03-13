@@ -1,0 +1,1 @@
+This app will map DC speed cameras.  Next version will vibrate as you approach a camera.  Key features will be accuracy, battery life and simplicity.
